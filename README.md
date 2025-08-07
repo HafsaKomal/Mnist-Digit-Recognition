@@ -1,0 +1,1 @@
+Use the MNIST dataset of handwritten digit images to build a machine learningmodel that can recognize and classify digits from 0 to 9. Your task is to preprocessthe images, train a model to correctly identify the digits, and evaluate its accuracy.
